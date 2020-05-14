@@ -60,7 +60,7 @@ Computer, Computer vs. Computer games are all possible.
 
 ----------------- Commands -----------------
 
-### <setup>
+    <setup>
     Enter Setup Mode, within which you can set up your own initial board configurations.
     This can only be done when a game is not currently running.
     
@@ -84,7 +84,7 @@ Computer, Computer vs. Computer games are all possible.
     that neither king is in check. The user cannot leave setup mode until these conditions are
     satisfied.
 
-### <game white-player black-player>   or   <game white-player black-player hints=on>
+    <game white-player black-player>   or   <game white-player black-player hints=on>
     Starts a new game, the parameters <white-player> and <black-player> can either be human
     or computer[1] or computer[2]. If you want hints to be enabled in your game, you must do
     so now.
